@@ -42,29 +42,15 @@
 - [6 أشياء تمنيت معرفتها قبل تعلم البرمجة](https://khalidcoding.com/6-%d8%a3%d8%b4%d9%8a%d8%a7%d8%a1-%d8%aa%d9%85%d9%86%d9%8a%d8%aa-%d9%85%d8%b9%d8%b1%d9%81%d8%aa%d9%87%d8%a7-%d9%82%d8%a8%d9%84-%d8%aa%d8%b9%d9%84%d9%85-%d8%a7%d9%84%d8%a8%d8%b1%d9%85%d8%ac%d8%a9/)
 <!-- BLOG-POST-LIST:END -->
 
+
 ➡️ [more blog posts...](https://khalidcoding.com/)
 
 ---
 
-<details>
-  <summary>:zap: Recent GitHub Activity</summary>
-  
-<!--START_SECTION:activity-->
-1. ❌ Closed PR [#1](https://github.com/codeSTACKr/build-responsive-website/pull/1) in [codeSTACKr/build-responsive-website](https://github.com/codeSTACKr/build-responsive-website)
-2. ❗️ Closed issue [#4](https://github.com/codeSTACKr/codestackr-vscode-theme/issues/4) in [codeSTACKr/codestackr-vscode-theme](https://github.com/codeSTACKr/codestackr-vscode-theme)
-3. 🗣 Commented on [#4](https://github.com/codeSTACKr/codestackr-vscode-theme/issues/4) in [codeSTACKr/codestackr-vscode-theme](https://github.com/codeSTACKr/codestackr-vscode-theme)
-4. 🎉 Merged PR [#7](https://github.com/codeSTACKr/codestackr-vscode-theme/pull/7) in [codeSTACKr/codestackr-vscode-theme](https://github.com/codeSTACKr/codestackr-vscode-theme)
-5. ❗️ Closed issue [#6](https://github.com/codeSTACKr/codestackr-vscode-theme/issues/6) in [codeSTACKr/codestackr-vscode-theme](https://github.com/codeSTACKr/codestackr-vscode-theme)
-<!--END_SECTION:activity-->
 
-</details>
+  <img align="left" alt="KhalidCoding's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=KhalidCoding&show_icons=true&hide_border=true" />
 
-<details>
-  <summary>:zap: GitHub Stats</summary>
 
-  <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=codeSTACKr&show_icons=true&hide_border=true" />
-
-</details>
 
 [website]: https://khalidcoding.com/
 [twitter]: https://twitter.com/KhalidCoding
