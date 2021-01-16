@@ -1,4 +1,4 @@
-### Hi there, I'm Khalid - EL MRABTI [khalidCoding](https://khalidcoding.com/) 👋
+### Hi there, I'm Khalid EL MRABTI  [khalidCoding](https://khalidcoding.com/) 👋
 
 ## I'm a Developer, and Teacher!!
 
