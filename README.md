@@ -12,7 +12,7 @@
 ### Connect with me:
 
 [<img align="left" alt="khalidcoding.com" width="22px" src="https://khalidcoding.com/wp-content/uploads/2020/01/fav.png" />](https://khalidcoding.com/)
-[<img align="left" alt="khalidcoding | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />](https://www.youtube.com/channel/UC63t6j4X8EjabArl2rtWlJQ)
+[<img align="left" alt="khalidcoding | YouTube" width="22px" background-color:powderblue; src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />](https://www.youtube.com/channel/UC63t6j4X8EjabArl2rtWlJQ)
 [<img align="left" alt="khalidcoding | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />](https://twitter.com/KhalidCoding)
 [<img align="left" alt="khalidcoding | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />](https://www.facebook.com/khalidcoding/)
 [<img align="left" alt="khalidcoding | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/khalid-el-mrabti/)
