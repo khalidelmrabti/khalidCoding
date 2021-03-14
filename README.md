@@ -2,7 +2,7 @@
 
 ## I'm a Developer, and Teacher!!
 
-- 🔭 I'm working on a [Kotlin Course](https://www.youtube.com/channel/UC63t6j4X8EjabArl2rtWlJQ)!
+- 🔭 I'm working on a [Kotlin Course](https://www.youtube.com/watch?v=zC8IKtBlOrE&list=PLtRaTjjI0JHPyGv9D3sws5PejPtKZfEFh)!
 - 🌱 I'm currently learning AI 🤣
 - 👯 I'm looking to collaborate with other content creators
 - 🥅 2021 Goals: Contribute more to Open Source projects
