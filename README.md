@@ -26,11 +26,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [تعلم لغة كوتلن للمبتدئين في البرمجة | إعداد بيئة التطوير](https://www.youtube.com/watch?v=3beX7m-i2RY)
 - [تعلم لغة كوتلن للمبتدئين في البرمجة | تقديم الدورة](https://www.youtube.com/watch?v=zC8IKtBlOrE)
 - [لغات برمجة تكتب متحركة ولغات ثابتة - كيف ذلك ؟](https://www.youtube.com/watch?v=mzRKfNlcF80)
 - [دليل تعلم برمجة تطبيقات الهواتف الذكية للمبتدئين في البرمجة](https://www.youtube.com/watch?v=OY-66FrQR1w)
 - [كيفية جعل تطبيقات الأندرويد متعددة اللغات](https://www.youtube.com/watch?v=6sA8crwxEu0)
-- [تشغيل وضع ملئ الشاشة للفيديو في webView](https://www.youtube.com/watch?v=pwea-TVIx1k)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://www.youtube.com/channel/UC63t6j4X8EjabArl2rtWlJQ)
