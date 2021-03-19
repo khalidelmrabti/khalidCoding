@@ -26,11 +26,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [تعلم لغة كوتلن للمبتدئين في البرمجة | الحلقات التكرارية Loops](https://www.youtube.com/watch?v=ZcVuaNwzyMU)
 - [تعلم لغة كوتلن للمبتدئين في البرمجة | اللاوائح Arraylist](https://www.youtube.com/watch?v=_1GGZ1K7fRs)
 - [تعلم لغة كوتلن للمبتدئين في البرمجة | المصفوفات Arrays](https://www.youtube.com/watch?v=Sv_2BvJDdLA)
 - [تعلم لغة كوتلن للمبتدئين في البرمجة | المتغيرات variables](https://www.youtube.com/watch?v=OJg5LX_YNIk)
 - [تعلم لغة كوتلن للمبتدئين في البرمجة | التعليقات](https://www.youtube.com/watch?v=ec1KoNQ57Qg)
-- [تعلم لغة كوتلن للمبتدئين في البرمجة | إعداد بيئة التطوير](https://www.youtube.com/watch?v=3beX7m-i2RY)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://www.youtube.com/channel/UC63t6j4X8EjabArl2rtWlJQ)
