@@ -28,7 +28,7 @@
 <!-- YOUTUBE:START -->
 - [تعلم لغة كوتلن للمبتدئين في البرمجة | المعاملات المنطقية](https://www.youtube.com/watch?v=mv-MGoXq0jQ)
 - [تعلم لغة كوتلن للمبتدئين في البرمجة | العمليات الحسابية](https://www.youtube.com/watch?v=KHpbitn683E)
-- [ماهي لغات البرمجة ؟ وماهي مجالات إستخدمها ؟](https://www.youtube.com/watch?v=H51UPVK6_Vw)
+- [ماهي لغات البرمجة ؟ وماهي مجالات إستخدامها ؟](https://www.youtube.com/watch?v=H51UPVK6_Vw)
 - [تعلم لغة كوتلن للمبتدئين في البرمجة | الحلقات التكرارية Loops](https://www.youtube.com/watch?v=ZcVuaNwzyMU)
 - [تعلم لغة كوتلن للمبتدئين في البرمجة | اللاوائح Arraylist](https://www.youtube.com/watch?v=_1GGZ1K7fRs)
 <!-- YOUTUBE:END -->
