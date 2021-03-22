@@ -1,6 +1,6 @@
 ### Hi there, I'm Khalid EL MRABTI  [khalidCoding](https://khalidcoding.com/) 👋
 
-## I'm a Developer, and Teacher!!
+## I'm a Developer, and Instructor!!
 
 - 🔭 I'm working on a [Kotlin Course](https://www.youtube.com/watch?v=zC8IKtBlOrE&list=PLtRaTjjI0JHPyGv9D3sws5PejPtKZfEFh)!
 - 🌱 I'm currently learning AI 🤣
