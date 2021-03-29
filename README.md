@@ -26,11 +26,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [برمجة تطبيق تسجيل طلاب المدرسة في دورة تعلم لغة كوتلن | المقطع 1](https://www.youtube.com/watch?v=1QqHd_0LmxI)
 - [تعلم لغة كوتلن للمبتدئين في البرمجة | إقتناص الأخطاء Exceptions](https://www.youtube.com/watch?v=NDULAPsXBU4)
 - [برمجة آلة حاسبة باستعمال لغة كوتلن | تطبيق رقم 1 في دورة تعلم كوتلن](https://www.youtube.com/watch?v=0NN0x7S9uhM)
 - [تعلم لغة كوتلن للمبتدئين في البرمجة | الدوال functions](https://www.youtube.com/watch?v=tG7WtjnRgFY)
 - [تعلم لغة كوتلن للمبتدئين في البرمجة | العبارات الشرطية](https://www.youtube.com/watch?v=9p23iK8AXQE)
-- [لماذا تعلم البرمجة صعب ؟](https://www.youtube.com/watch?v=mugYw8PoDsI)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://www.youtube.com/channel/UC63t6j4X8EjabArl2rtWlJQ)
