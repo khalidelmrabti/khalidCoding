@@ -26,11 +26,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [خارطة تعلم البرمجة للمبتدئين من الصفر إلى الإحتراف](https://www.youtube.com/watch?v=LKePSvgSRcs)
 - [برمجة تطبيق تسجيل الطلاب في دورة تعلم كوتلن | المقطع 4](https://www.youtube.com/watch?v=71c22Vol4es)
 - [برمجة تطبيق تسجيل الطلاب في دورة تعلم كوتلن | المقطع 3](https://www.youtube.com/watch?v=0YWQE9oX4-0)
 - [برمجة تطبيق تسجيل طلاب المدرسة في دورة تعلم لغة كوتلن | المقطع 2](https://www.youtube.com/watch?v=usF9ygR3_jg)
 - [برمجة تطبيق تسجيل طلاب المدرسة في دورة تعلم لغة كوتلن | المقطع 1](https://www.youtube.com/watch?v=1QqHd_0LmxI)
-- [تعلم لغة كوتلن للمبتدئين في البرمجة | إقتناص الأخطاء Exceptions](https://www.youtube.com/watch?v=NDULAPsXBU4)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://www.youtube.com/channel/UC63t6j4X8EjabArl2rtWlJQ)
