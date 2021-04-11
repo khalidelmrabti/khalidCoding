@@ -26,11 +26,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [ماذا بعد تعلم الأساسيات ؟](https://www.youtube.com/watch?v=9wkAN1Gu3p4)
 - [برمجة تطبيق تسجيل الطلاب في دورة تعلم كوتلن | المقطع 7](https://www.youtube.com/watch?v=VwatlmLOsSU)
 - [برمجة تطبيق تسجيل الطلاب في دورة تعلم كوتلن | المقطع 6](https://www.youtube.com/watch?v=8EZbdUIw3sk)
 - [برمجة تطبيق تسجيل الطلاب في دورة تعلم كوتلن | المقطع 5](https://www.youtube.com/watch?v=2yD7Cqgl5SU)
 - [خارطة تعلم البرمجة للمبتدئين من الصفر إلى الإحتراف](https://www.youtube.com/watch?v=LKePSvgSRcs)
-- [برمجة تطبيق تسجيل الطلاب في دورة تعلم كوتلن | المقطع 4](https://www.youtube.com/watch?v=71c22Vol4es)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://www.youtube.com/channel/UC63t6j4X8EjabArl2rtWlJQ)
