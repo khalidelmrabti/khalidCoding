@@ -26,11 +26,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [شرح object  في دورة تعلم لغة كوتلن](https://www.youtube.com/watch?v=fjAyziSWcRg)
 - [شرح class في دورة تعلم لغة كوتلن المستوى المتقدم](https://www.youtube.com/watch?v=f4uktdBTbbk)
 - [شرح البرمجة كائنية التوجه](https://www.youtube.com/watch?v=uj3oFfYmhec)
 - [تقديم دورة المستوى المتقدم في تعلم لغة كوتلن](https://www.youtube.com/watch?v=a3D4tM6nsx4)
 - [ماذا بعد تعلم الأساسيات ؟](https://www.youtube.com/watch?v=9wkAN1Gu3p4)
-- [برمجة تطبيق تسجيل الطلاب في دورة تعلم كوتلن | المقطع 7](https://www.youtube.com/watch?v=VwatlmLOsSU)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://www.youtube.com/channel/UC63t6j4X8EjabArl2rtWlJQ)
