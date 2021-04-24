@@ -26,11 +26,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [شرح الوراثة في لغة كوتلن](https://www.youtube.com/watch?v=QPAPMFzda3Q)
 - [حقيقة تعلم البرمجة](https://www.youtube.com/watch?v=_bgUAhTcWrs)
 - [شرح init في لغة كوتلن](https://www.youtube.com/watch?v=LFV68ES4VXY)
 - [إنشاء أكثر من constructor في لغة كوتلن](https://www.youtube.com/watch?v=z1-FcZF5XAk)
 - [إنشاء constructor في لغة كوتلن](https://www.youtube.com/watch?v=8vMPWUGD1Qk)
-- [شرح object  في دورة تعلم لغة كوتلن](https://www.youtube.com/watch?v=fjAyziSWcRg)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://www.youtube.com/channel/UC63t6j4X8EjabArl2rtWlJQ)
