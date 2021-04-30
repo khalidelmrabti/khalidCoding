@@ -26,11 +26,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [شرح abstract class في لغة كوتلن](https://www.youtube.com/watch?v=2tR9xRXLWb0)
 - [شرح Abstraction في البرمجة](https://www.youtube.com/watch?v=ON-vhRKLPbY)
 - [شرح polymorphism في لغة كوتلن](https://www.youtube.com/watch?v=OEML7qavfyA)
 - [شرح Encapsulation في لغة كوتلن](https://www.youtube.com/watch?v=D--wS_FibyA)
 - [شرح الوراثة في لغة كوتلن](https://www.youtube.com/watch?v=QPAPMFzda3Q)
-- [حقيقة تعلم البرمجة](https://www.youtube.com/watch?v=_bgUAhTcWrs)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://www.youtube.com/channel/UC63t6j4X8EjabArl2rtWlJQ)
