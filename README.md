@@ -26,11 +26,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [كيفية تثبيت برنامج intellij idea و حزمة jdk على نظام windows 10](https://www.youtube.com/watch?v=IVXXXG8g8-w)
 - [شرح Interface في لغة كوتلن](https://www.youtube.com/watch?v=cCQ-iswZvWY)
 - [إستخراج ملف apk و bundle في الاندرويد ستوديو](https://www.youtube.com/watch?v=Y9SKoLjHbJQ)
 - [شرح abstract class في لغة كوتلن](https://www.youtube.com/watch?v=2tR9xRXLWb0)
 - [شرح Abstraction في البرمجة](https://www.youtube.com/watch?v=ON-vhRKLPbY)
-- [شرح polymorphism في لغة كوتلن](https://www.youtube.com/watch?v=OEML7qavfyA)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://www.youtube.com/channel/UC63t6j4X8EjabArl2rtWlJQ)
