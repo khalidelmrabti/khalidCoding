@@ -26,11 +26,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [شرح data class في لغة كوتلن](https://www.youtube.com/watch?v=510wif99eek)
 - [شرح nested class و inner class في لغة كوتلن](https://www.youtube.com/watch?v=gg_qJpTYMSU)
 - [شرح sealed class في لغة كوتلن](https://www.youtube.com/watch?v=_TD65_QmQo4)
 - [شرح enum class في لغة كوتلن](https://www.youtube.com/watch?v=eUuDGGXAXYQ)
 - [شرح companion object في لغة كوتلن](https://www.youtube.com/watch?v=CTphXOPPD9c)
-- [كيفية تثبيت برنامج intellij idea و حزمة jdk على نظام windows 10](https://www.youtube.com/watch?v=IVXXXG8g8-w)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://www.youtube.com/channel/UC63t6j4X8EjabArl2rtWlJQ)
