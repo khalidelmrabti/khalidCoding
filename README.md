@@ -26,11 +26,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [شرح higher order function في لغة كوتلن](https://www.youtube.com/watch?v=xdki0MrRMFk)
 - [شرح lambda expression في لغة كوتلن](https://www.youtube.com/watch?v=mbelKcgRyrI)
 - [شرح anonymous function في لغة كوتلن](https://www.youtube.com/watch?v=myvOBEdEkCQ)
 - [شرح data class في لغة كوتلن](https://www.youtube.com/watch?v=510wif99eek)
 - [شرح nested class و inner class في لغة كوتلن](https://www.youtube.com/watch?v=gg_qJpTYMSU)
-- [شرح sealed class في لغة كوتلن](https://www.youtube.com/watch?v=_TD65_QmQo4)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://www.youtube.com/channel/UC63t6j4X8EjabArl2rtWlJQ)
