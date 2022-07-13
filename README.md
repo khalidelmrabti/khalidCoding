@@ -6,7 +6,7 @@
 - 🌱 I'm currently learning AI 🤣
 - 👯 I'm looking to collaborate with other content creators
 - 🥅 2021 Goals: Contribute more to Open Source projects
-- ⚡ I love readig&writing and play games
+- ⚡ I love readig&writing and playing video games
 
 
 ### Connect with me:
